@@ -1,3 +1,5 @@
+# NAME : MOHANRAJ.S
+# REG NO : 212224100036
 # EXNO-6-DS-DATA VISUALIZATION USING SEABORN LIBRARY
 
 # Aim:
@@ -18,7 +20,6 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
- Include the necessary coding and corresponding screenshots
 
 # Result:
  Include your result here
